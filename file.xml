@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="application.pizza.Barbecue">
+    <void property="cheese">
+     <object class="application.pizza.Cheese">
+      <void property="mozzarella">
+       <boolean>true</boolean>
+      </void>
+     </object>
+    </void>
+    <void property="meat">
+     <string>лорпав</string>
+    </void>
+    <void property="name">
+     <string>кенро</string>
+    </void>
+    <void property="onion">
+     <string>лорпа</string>
+    </void>
+    <void property="sauce">
+     <string>лорпа</string>
+    </void>
+    <void property="size">
+     <int>32</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
